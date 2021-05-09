@@ -1,0 +1,36 @@
+body {
+  font-size: 18px;
+  background-color: #f6e6e4;
+}
+hr {
+  border-style:none;
+  border-top-style:dotted;
+  border-color:grey;
+  border-width:5px;
+  width:5%;
+}
+h1{
+  font-size: 50px;
+  color:#1597bb;
+}
+h3{
+  color:#7b113a;
+}
+img{
+  width:80%;
+}
+a{
+  text-decoration: none;
+}
+.college{
+  font-size: 30px;
+}
+.intro{
+  margin-right:600px;
+}
+.details{
+  float:left;
+}
+.hobbies{
+  float: right;
+}
